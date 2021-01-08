@@ -1,2 +1,3 @@
 # GFG-Competitive-Coding
-Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers.
+
+Here, I will be Solving Must-Do Questions from GeeksforGeeks and also have Implemented Most of the important and vital aspects of Data Structures and Algorithms in C++.
